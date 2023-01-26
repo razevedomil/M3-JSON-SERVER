@@ -1,0 +1,5 @@
+{
+    "tamanho": [{"medida": 5, "tattoo": 1, "id":1},{"medida": 10, "tattoo": 2, "id":2},{"medida": 15, "tattoo": 3, "id":3} ],
+    "area": [{"local": "braco", "sublocal": "antebraco", "id":1}, {"local": "perna", "sublocal": "panturrilha", "id":2},{"local": "costas", "sublocal": "dorso", "id":3}],
+    "cor": [{"qtdcor": "uma", "cores": "preta", "id":1},{"qtdcor": "duas", "cores": "pretabranca", "id":2},{"qtdcor": "duas", "cores": "pretavermelha", "id":3}]
+}

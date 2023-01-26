@@ -1,0 +1,14 @@
+{
+    "GET/tamanho/list": "/tamanho/",
+    "POST/tamanho/create": "/tamanho/",
+    "PUT/tamanho/update/:id": "/tamanho/:id",
+    "DELETE/tamanho/delete/:id": "/tamanho/:id",
+    "GET/area/list": "/area/",
+    "POST/area/create": "/area/",
+    "PUT/area/update/:id": "/area/:id",
+    "DELETE/area/delete/:id": "/area/:id",
+    "GET/cor/list": "/cor/",
+    "POST/cor/create": "/cor/",
+    "PUT/cor/update/:id": "/cor/:id",
+    "DELETE/cor/delete/:id": "/cor/:id"
+}
