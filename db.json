@@ -2,35 +2,35 @@
     "Agenda": [
         {
             "id" : 1,
-            "Dia" : "" ,
+            "Dia" : "Segunda" ,
             "Horário" : "" ,
             "Tatuador" : ""
      
         },
         {
             "id" : 2,
-            "Dia" : "" ,
+            "Dia" : "Terça" ,
             "Horário" : "" ,
             "Tatuador" : ""
      
         },
         {
             "id" : 3,
-            "Dia" : "" ,
+            "Dia" : "Quarta" ,
             "Horário" : "" ,
             "Tatuador" : ""
      
         },
         {
             "id" : 4,
-            "Dia" : "" ,
+            "Dia" : "Quinta" ,
             "Horário" : "" ,
             "Tatuador" : ""
      
         },
         {
             "id" : 5,
-            "Dia" : "" ,
+            "Dia" : "Sexta" ,
             "Horário" : "" ,
             "Tatuador" : ""
      
